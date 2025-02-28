@@ -24,4 +24,4 @@
    `cfg/sourcemod/bot_models.cfg`
 2. Укажите путь к модели:
    ```cfg
-   sm_bot_model "models/player/custom_player/your_model.mdl"
+   sm_bot_model "models/player/custom_player/new_model.mdl"
