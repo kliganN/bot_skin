@@ -1,8 +1,9 @@
 # Custom Bot Models Plugin
 
 ## ВАЖНО: 
-```Перед компляцией плагина измените путь для модельки бота "models/player/custom_player/new_model.mdl"
-```
+
+`Перед компляцией плагина измените путь для модельки бота "models/player/custom_player/new_model.mdl"`
+
 
 ## Как это работает
 
