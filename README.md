@@ -2,7 +2,7 @@
 
 ## ВАЖНО: 
 
-`Перед компляцией плагина измените путь для модельки бота "models/player/custom_player/new_model.mdl"`
+- Перед компляцией плагина измените путь для модельки бота "models/player/custom_player/new_model.mdl"
 
 
 ## Как это работает
@@ -23,5 +23,5 @@
 1. Откройте файл конфигурации:  
    `cfg/sourcemod/bot_models.cfg`
 2. Укажите путь к модели:
-   ```ini
+   ```cfg
    sm_bot_model "models/player/custom_player/your_model.mdl"
